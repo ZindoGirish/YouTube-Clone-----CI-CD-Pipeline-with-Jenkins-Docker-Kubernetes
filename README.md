@@ -181,8 +181,8 @@ Add only files and directories that exist in your repository.
 
 **Your Name**
 
--   GitHub: `<YOUR_GITHUB_PROFILE_URL>`{=html}
--   LinkedIn: `<YOUR_LINKEDIN_PROFILE_URL>`{=html}
+-   GitHub: `<https://github.com/ZindoGirish>`{=html}
+-   LinkedIn: `<www.linkedin.com/in/zindo-girish>`{=html}
 
 ------------------------------------------------------------------------
 
