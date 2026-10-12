@@ -179,7 +179,7 @@ Add only files and directories that exist in your repository.
 
 ## Author
 
-**Your Name**
+**Zindo Girish**
 
 -   GitHub: `<https://github.com/ZindoGirish>`{=html}
 -   LinkedIn: `<www.linkedin.com/in/zindo-girish>`{=html}
